@@ -1,2 +1,2 @@
-# OpenGL-Fast_Setup
+# OpenGL-Fast Setup
 basic OpenGL project setup with simple window, ke/mouse controls &amp; basic shader and mesh setup.
